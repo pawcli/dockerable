@@ -1,0 +1,15 @@
+/home/paw/szkol_docker/dockerable/bin/Debug/net8.0/dockerable
+/home/paw/szkol_docker/dockerable/bin/Debug/net8.0/dockerable.deps.json
+/home/paw/szkol_docker/dockerable/bin/Debug/net8.0/dockerable.runtimeconfig.json
+/home/paw/szkol_docker/dockerable/bin/Debug/net8.0/dockerable.dll
+/home/paw/szkol_docker/dockerable/bin/Debug/net8.0/dockerable.pdb
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.AssemblyInfoInputs.cache
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.AssemblyInfo.cs
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.csproj.CoreCompileInputs.cache
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.sourcelink.json
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.dll
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/refint/dockerable.dll
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.pdb
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/dockerable.genruntimeconfig.cache
+/home/paw/szkol_docker/dockerable/obj/Debug/net8.0/ref/dockerable.dll
